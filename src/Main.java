@@ -5,7 +5,14 @@ public class Main {
         // Press Alt+Entrée with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
+        int x = 5;
+        int y = 63;
+        double  userId = 12.366;
+        boolean isreal = true ;
+        char mychar = 'b';
+        String nyName = "Ghada";
 
+        System.out.println("Hello "+nyName+"userid is"+userId );
         // Press Maj+F10 or click the green arrow button in the gutter to run the code.
         for (int i = 1; i <= 5; i++) {
 
